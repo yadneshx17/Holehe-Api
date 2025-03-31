@@ -14,6 +14,7 @@ This is a FastAPI-based wrapper for the **Holehe** OSINT tool. It allows queryin
 ```bash
 git clone https://github.com/yourusername/holehe-api.git
 cd holehe-api
+python3 setup.py install
 ```
 
 ### Install Dependencies
