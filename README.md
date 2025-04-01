@@ -12,7 +12,7 @@ This is a FastAPI-based wrapper for the **Holehe** OSINT tool. It allows queryin
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/yourusername/holehe-api.git
+git clone https://github.com/yadneshx17/holehe-api.git
 cd holehe-api
 python3 setup.py install
 ```
